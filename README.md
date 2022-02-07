@@ -1,3 +1,5 @@
+This is a fork for usage with lorOS.
+
 <h1 align="center">
   <br>
   <a href="https://github.com/Suleman-Elahi/Aurin"><img src="https://raw.githubusercontent.com/Suleman-Elahi/Aurin/main/data/aurin.png" alt=" Aurin" width="200px"></a>
