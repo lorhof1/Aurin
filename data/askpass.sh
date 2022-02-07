@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 /opt/aurin/passprompt.py
+python3 /bin/ggp
